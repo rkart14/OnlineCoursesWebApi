@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />
+    <PackageReference Include="Polly" Version="7.1.1" />
+    <PackageReference Include="Serilog" Version="2.9.1-dev-01154" />
+    <PackageReference Include="Serilog.Exceptions" Version="5.3.1" />
+    <PackageReference Include="Serilog.Extensions.Logging" Version="3.0.2-dev-10260" />
+    <PackageReference Include="Serilog.Sinks.Elasticsearch" Version="8.1.0-alpha0005" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc4" />
+    <PackageReference Include="Swashbuckle.Core" Version="5.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineCourses.Application\OnlineCourses.Application.csproj" />
+    <ProjectReference Include="..\OnlineCourses.EntityFrameworkCore\OnlineCourses.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\OnlineCourses.Infrastructure\OnlineCourses.Infrastructure.csproj" />
+    <ProjectReference Include="..\OnlineCourses.Shared\OnlineCourses.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

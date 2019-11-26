@@ -1,0 +1,8 @@
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\MessageBus.MassTransit\bin\Debug\netcoreapp3.0\MessageBus.MassTransit.deps.json
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\MessageBus.MassTransit\bin\Debug\netcoreapp3.0\MessageBus.MassTransit.dll
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\MessageBus.MassTransit\bin\Debug\netcoreapp3.0\MessageBus.MassTransit.pdb
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\MessageBus.MassTransit\obj\Debug\netcoreapp3.0\MessageBus.MassTransit.csprojAssemblyReference.cache
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\MessageBus.MassTransit\obj\Debug\netcoreapp3.0\MessageBus.MassTransit.AssemblyInfoInputs.cache
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\MessageBus.MassTransit\obj\Debug\netcoreapp3.0\MessageBus.MassTransit.AssemblyInfo.cs
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\MessageBus.MassTransit\obj\Debug\netcoreapp3.0\MessageBus.MassTransit.dll
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\MessageBus.MassTransit\obj\Debug\netcoreapp3.0\MessageBus.MassTransit.pdb

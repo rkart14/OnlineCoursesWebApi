@@ -1,0 +1,15 @@
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\bin\Debug\netcoreapp3.0\OnlineCourses.Application.deps.json
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\bin\Debug\netcoreapp3.0\OnlineCourses.Application.dll
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\bin\Debug\netcoreapp3.0\OnlineCourses.Application.pdb
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\bin\Debug\netcoreapp3.0\MessageBus.MassTransit.dll
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\bin\Debug\netcoreapp3.0\OnlineCourses.Domain.dll
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\bin\Debug\netcoreapp3.0\OnlineCourses.Shared.dll
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\bin\Debug\netcoreapp3.0\MessageBus.MassTransit.pdb
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\bin\Debug\netcoreapp3.0\OnlineCourses.Domain.pdb
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\bin\Debug\netcoreapp3.0\OnlineCourses.Shared.pdb
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\obj\Debug\netcoreapp3.0\OnlineCourses.Application.csprojAssemblyReference.cache
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\obj\Debug\netcoreapp3.0\OnlineCourses.Application.AssemblyInfoInputs.cache
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\obj\Debug\netcoreapp3.0\OnlineCourses.Application.AssemblyInfo.cs
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\obj\Debug\netcoreapp3.0\OnlineCourses.Application.csproj.CopyComplete
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\obj\Debug\netcoreapp3.0\OnlineCourses.Application.dll
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Application\obj\Debug\netcoreapp3.0\OnlineCourses.Application.pdb

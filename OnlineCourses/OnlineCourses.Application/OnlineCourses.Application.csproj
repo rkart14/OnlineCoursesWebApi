@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.30" />
+    <PackageReference Include="MediatR" Version="7.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="3.0.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MessageBus.MassTransit\MessageBus.MassTransit.csproj" />
+    <ProjectReference Include="..\OnlineCourses.Domain\OnlineCourses.Domain.csproj" />
+    <ProjectReference Include="..\OnlineCourses.Shared\OnlineCourses.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

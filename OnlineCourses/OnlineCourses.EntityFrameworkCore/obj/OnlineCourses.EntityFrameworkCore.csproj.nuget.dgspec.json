@@ -1,0 +1,351 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj",
+        "projectName": "MessageBus.MassTransit",
+        "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj",
+        "packagesPath": "C:\\Users\\Kartvelishvili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kartvelishvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.mtask.ge/nuget/MultiTaskNuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[6.0.0-develop.2281, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[6.0.0-develop.2281, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj",
+        "projectName": "OnlineCourses.Application",
+        "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj",
+        "packagesPath": "C:\\Users\\Kartvelishvili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kartvelishvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.mtask.ge/nuget/MultiTaskNuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj"
+              },
+              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj"
+              },
+              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj",
+        "projectName": "OnlineCourses.Domain",
+        "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj",
+        "packagesPath": "C:\\Users\\Kartvelishvili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kartvelishvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.mtask.ge/nuget/MultiTaskNuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj",
+        "projectName": "OnlineCourses.EntityFrameworkCore",
+        "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\Kartvelishvili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kartvelishvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.mtask.ge/nuget/MultiTaskNuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj"
+              },
+              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj",
+        "projectName": "OnlineCourses.Shared",
+        "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj",
+        "packagesPath": "C:\\Users\\Kartvelishvili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kartvelishvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.mtask.ge/nuget/MultiTaskNuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

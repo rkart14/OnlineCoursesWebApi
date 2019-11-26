@@ -1,0 +1,7 @@
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Shared\bin\Debug\netcoreapp3.0\OnlineCourses.Shared.deps.json
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Shared\bin\Debug\netcoreapp3.0\OnlineCourses.Shared.dll
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Shared\bin\Debug\netcoreapp3.0\OnlineCourses.Shared.pdb
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Shared\obj\Debug\netcoreapp3.0\OnlineCourses.Shared.AssemblyInfoInputs.cache
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Shared\obj\Debug\netcoreapp3.0\OnlineCourses.Shared.AssemblyInfo.cs
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Shared\obj\Debug\netcoreapp3.0\OnlineCourses.Shared.dll
+C:\Users\Kartvelishvili\Desktop\Jobs\Chama\chamatask\OnlineCourses\OnlineCourses.Shared\obj\Debug\netcoreapp3.0\OnlineCourses.Shared.pdb

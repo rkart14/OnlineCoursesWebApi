@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MassTransit" Version="6.0.0-develop.2281" />
+    <PackageReference Include="MassTransit.RabbitMQ" Version="6.0.0-develop.2281" />
+  </ItemGroup>
+
+</Project>

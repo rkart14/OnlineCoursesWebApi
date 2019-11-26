@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "OnlineCourses.Domain/1.0.0": {
+        "dependencies": {
+          "OnlineCourses.Shared": "1.0.0"
+        },
+        "runtime": {
+          "OnlineCourses.Domain.dll": {}
+        }
+      },
+      "OnlineCourses.Shared/1.0.0": {
+        "runtime": {
+          "OnlineCourses.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineCourses.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineCourses.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
