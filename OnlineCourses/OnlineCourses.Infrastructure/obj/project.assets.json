@@ -2950,11 +2950,12 @@
       ]
     },
     "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "LdIvj7Bi2jiaNTqY/ezZGVXHe1KI5fjLSI026O1TjVzsmdgTP/zTF+f3nwHCjwttyhsPBEiswv0PekimPWZwWg==",
+      "sha512": "c3YNH1GQJbfIPJeCnr4avseugSqPrxwIqzthYyZDN6EuOyNOzq+y2KSUfRcXauya1sF4foESTgwM5e1A8arAKw==",
       "type": "package",
       "path": "runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -2992,7 +2993,7 @@
       ]
     },
     "runtime.native.System.IO.Compression/4.3.0": {
-      "sha512": "b+V9JC/Ii3sR659flBeaBJww111425tgjcDS1k+hqV4sGh9FALRDBvJnDtQ895gAzpPTUOFDHdqaZ2Et7BpZMg==",
+      "sha512": "INBPonS5QPEgn7naufQFXJEp3zX6L4bwHgJ/ZH78aBTpeNfQMtf7C6VrAFhlq2xxWBveIOWyFzQjJ8XzHMhdOQ==",
       "type": "package",
       "path": "runtime.native.system.io.compression/4.3.0",
       "files": [
@@ -3111,11 +3112,12 @@
       ]
     },
     "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "JGc0pAWRE8lB4Ucygk2pYSKbUPLlAIq6Bczf5/WF2D/VKJEPtYlVUMxk8fbl1zRfTWzSHi+VcFZlaPlWiNxeKg==",
+      "sha512": "ytoewC6wGorL7KoCAvRfsgoJPJbNq+64k2SqW6JcOAebWsFUvCCYgfzQMrnpvPiEl4OrblUlhF2ji+Q1+SVLrQ==",
       "type": "package",
       "path": "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -7430,23 +7432,26 @@
   },
   "packageFolders": {
     "C:\\Users\\Kartvelishvili\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Infrastructure\\OnlineCourses.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Infrastructure\\OnlineCourses.Infrastructure.csproj",
       "projectName": "OnlineCourses.Infrastructure",
-      "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Infrastructure\\OnlineCourses.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Infrastructure\\OnlineCourses.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Kartvelishvili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Kartvelishvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -7459,14 +7464,14 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj": {
-              "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj"
+            "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj": {
+              "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj"
             },
-            "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj": {
-              "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj"
+            "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj": {
+              "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj"
             },
-            "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj": {
-              "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj"
+            "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj": {
+              "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj"
             }
           }
         }
@@ -7495,12 +7500,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

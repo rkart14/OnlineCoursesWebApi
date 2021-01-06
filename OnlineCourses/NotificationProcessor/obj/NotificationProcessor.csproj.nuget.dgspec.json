@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\NotificationProcessor\\NotificationProcessor.csproj": {}
+    "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\NotificationProcessor\\NotificationProcessor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj": {
+    "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj",
+        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj",
         "projectName": "MessageBus.MassTransit",
-        "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj",
+        "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj",
         "packagesPath": "C:\\Users\\Kartvelishvili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\obj\\",
+        "outputPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Kartvelishvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -61,30 +63,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\NotificationProcessor\\NotificationProcessor.csproj": {
+    "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\NotificationProcessor\\NotificationProcessor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\NotificationProcessor\\NotificationProcessor.csproj",
+        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\NotificationProcessor\\NotificationProcessor.csproj",
         "projectName": "NotificationProcessor",
-        "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\NotificationProcessor\\NotificationProcessor.csproj",
+        "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\NotificationProcessor\\NotificationProcessor.csproj",
         "packagesPath": "C:\\Users\\Kartvelishvili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\NotificationProcessor\\obj\\",
+        "outputPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\NotificationProcessor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Kartvelishvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -97,11 +107,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj": {
-                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj"
+              "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj"
               },
-              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\StudentEnrollProcessor\\StudentEnrollProcessor.csproj": {
-                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\StudentEnrollProcessor\\StudentEnrollProcessor.csproj"
+              "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\StudentEnrollProcessor\\StudentEnrollProcessor.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\StudentEnrollProcessor\\StudentEnrollProcessor.csproj"
               }
             }
           }
@@ -124,30 +134,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj": {
+    "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj",
         "projectName": "OnlineCourses.Application",
-        "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj",
+        "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj",
         "packagesPath": "C:\\Users\\Kartvelishvili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\obj\\",
+        "outputPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Kartvelishvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -160,14 +178,14 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj": {
-                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj"
+              "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj"
               },
-              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj": {
-                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj"
+              "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj"
               },
-              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj": {
-                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj"
+              "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj"
               }
             }
           }
@@ -212,30 +230,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj": {
+    "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj",
         "projectName": "OnlineCourses.Domain",
-        "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj",
+        "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj",
         "packagesPath": "C:\\Users\\Kartvelishvili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Kartvelishvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -248,8 +274,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj": {
-                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj"
+              "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj"
               }
             }
           }
@@ -272,30 +298,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj": {
+    "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj",
+        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj",
         "projectName": "OnlineCourses.EntityFrameworkCore",
-        "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj",
+        "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj",
         "packagesPath": "C:\\Users\\Kartvelishvili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\obj\\",
+        "outputPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Kartvelishvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -308,11 +342,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj": {
-                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj"
+              "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj"
               },
-              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj": {
-                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj"
+              "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj"
               }
             }
           }
@@ -345,30 +379,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj": {
+    "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj",
         "projectName": "OnlineCourses.Shared",
-        "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj",
+        "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Shared\\OnlineCourses.Shared.csproj",
         "packagesPath": "C:\\Users\\Kartvelishvili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Shared\\obj\\",
+        "outputPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Kartvelishvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -401,30 +443,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\StudentEnrollProcessor\\StudentEnrollProcessor.csproj": {
+    "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\StudentEnrollProcessor\\StudentEnrollProcessor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\StudentEnrollProcessor\\StudentEnrollProcessor.csproj",
+        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\StudentEnrollProcessor\\StudentEnrollProcessor.csproj",
         "projectName": "StudentEnrollProcessor",
-        "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\StudentEnrollProcessor\\StudentEnrollProcessor.csproj",
+        "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\StudentEnrollProcessor\\StudentEnrollProcessor.csproj",
         "packagesPath": "C:\\Users\\Kartvelishvili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\StudentEnrollProcessor\\obj\\",
+        "outputPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\StudentEnrollProcessor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Kartvelishvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -437,17 +487,17 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj": {
-                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj"
+              "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj"
               },
-              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj": {
-                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj"
+              "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Application\\OnlineCourses.Application.csproj"
               },
-              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj": {
-                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj"
+              "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.Domain\\OnlineCourses.Domain.csproj"
               },
-              "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj": {
-                "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj"
+              "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\OnlineCourses.EntityFrameworkCore\\OnlineCourses.EntityFrameworkCore.csproj"
               }
             }
           }
@@ -470,12 +520,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

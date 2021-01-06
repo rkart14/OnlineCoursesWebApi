@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj": {}
+    "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj": {
+    "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj",
+        "projectUniqueName": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj",
         "projectName": "MessageBus.MassTransit",
-        "projectPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj",
+        "projectPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\MessageBus.MassTransit.csproj",
         "packagesPath": "C:\\Users\\Kartvelishvili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kartvelishvili\\Desktop\\Jobs\\Chama\\chamatask\\OnlineCourses\\MessageBus.MassTransit\\obj\\",
+        "outputPath": "C:\\Users\\Kartvelishvili\\Source\\Repos\\rkart14\\OnlineCoursesWebApi\\OnlineCourses\\MessageBus.MassTransit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Kartvelishvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -61,12 +63,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
